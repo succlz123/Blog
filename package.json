@@ -38,7 +38,7 @@
     "login": "miku.me",
     "repo": "blog",
     "onlyPublished": true,
-    "onlyPublic": true
+    "onlyPublic": false
   },
   "devDependencies": {
     "hexo-renderer-scss": "^1.2.0",
